@@ -1,0 +1,122 @@
+{
+  "first_name": "Oleg",
+  "last_name": "Karpov",
+  "linkedin": "oleg-karpov",
+  "github": "OlegKarpov",
+  "bio_data": {
+    "email": "karpovhub@gmail.com",
+    "phone": "097 976-86-75",
+    "summary": {
+      "points": [
+        "Five years of software development experience",
+        "Competent at managing responsibilities in a high-volume atmosphere",
+        "Hard worker, quick learner, and ability to assume responsibility"
+      ]
+    },
+    "skills": {
+      "web_technologies": "HTML, CSS, SCSS, DOM, CSS, JSON, REST API, SPA, PEP-8, Web sockets, Webpack",
+      "programming_languages": "Python 2.5-2.7/3.4-3.6, Javascript ES 6, Go",
+      "web_frameworks": "Django, Django REST framework, CherryPy, Flask, Backbone, Scrapy, Phantomjs",
+      "databases": "MySQL, PostgreSQL, MongoDB, Redis, Rabbitmq, SQLite",
+      "ci_cd": "GitLab CI, Bamboo",
+      "testing": "PyTest, Mock, Selenium",
+      "monitoring": "Sentry, New Relic, Flower",
+      "containers": "Vagrant, Docker",
+      "deployment": "Ansible, Puppet, Chef, Terraform, Terrible",
+      "server": "Apache, Nginx",
+      "management": "Scrum, Jira, Redmine"
+    },
+    "education": {
+      "degree": "Master of Science",
+      "major": "Computer Science and Programming Architecture",
+      "institution": "National Technical University of Ukraine at Kriviy Rih",
+      "graduation_year": 2014
+    },
+    "experience": {
+      "items": [
+        {
+          "position": "Software Development Engineer",
+          "organisation": "Levi9",
+          "location": "Kiev",
+          "from": "Jan. 2018",
+          "to": "Now",
+          "projects": [
+            {
+              "name": "Thema's Admin",
+              "details": "Developed a SPA CRM, moved existing business logic from old PHP project",
+              "environment": "Django, Django REST framework, Backbone, Celery, Bootstrap, Ansible, Terrible, Bamboo"
+            },
+            {
+              "name": "Goeievraag (www.startpagina.nl/v/)",
+              "details": "Serice for asking the questions and share your knowledge with others",
+              "environment": "Django, Django REST framework, Backbone, Celery, Bootstrap, Ansible, Terrible, Bamboo"
+            }
+          ]
+        },
+        {
+          "position": "Software Development Engineer",
+          "organisation": "Syntech Software",
+          "location": "Kriviy Rih",
+          "from": "Dec. 2017",
+          "to": "Jan. 2018",
+          "projects": [
+            {
+              "name": "DMatcher (dmatcher.com)",
+              "details": "Service for selling designers images to user by platform",
+              "environment": "Google App Engine, Firebase, MySQL, ReactJS, Yarn, Web sockets"
+            },
+            {
+              "name": "NAV-TV (navtv.com)",
+              "details": "The website for NAV-TV company with e-commerce part, CRM and help desk",
+              "environment": "Django, jQuery, Websockets, GoogleAdwords API, AngularJS, Celery, Redis"
+            },
+            {
+              "name": "NAV-TV(FW2) (navtv.com)",
+              "details": "The website for NAV-TV company with e-commerce part, CRM and help desk",
+              "environment": "Django, Twisted, Websockets, Redis, Celery, Channels"
+            }
+          ]
+        },
+        {
+          "position": "Junior Software Developer",
+          "organisation": "Woox",
+          "location": "Kriviy Rih",
+          "from": "Now. 2014",
+          "to": "Dec. 2017",
+          "projects": [
+            {
+              "name": "Hazardmon (hazardmon.com)",
+              "details": "Monitoring dashboard for elevator sensors",
+              "environment": "Django, Go, Microservices, Django REST, Websockets, Sentry, Celery, RabbitMq, Redis"
+            },
+            {
+              "name": "Play with a pro (playwithapro.com)",
+              "details": "Site for online education and selling education videos",
+              "environment": "Django, Django REST framework, SCSS, jQuery, ReactJS, REST API, Sentry, Celery"
+            },
+            {
+              "name": "The Barebox (thebarebox.com)",
+              "details": "Site for restaurant owners. Dashboard for users setup and analytics",
+              "environment": "Django,  Django REST framework, jQuery, ReactJS, D3, REST API"
+            },
+            {
+              "name": "SuperHeroTeam",
+              "details": "Online notebook for families with chronically children",
+              "environment": "Django, SCSS, jQuery, Bootstrap3"
+            },
+            {
+              "name": "Titanovo (https://www.kickstarter.com/projects/titanovo/dna-lifestyle-coach)",
+              "details": "Service for range of digital health tools that include wellness testing based on genetics",
+              "environment": "Django, REST API, Docker, Docker-compose, Bootstrap3"
+            },
+            {
+              "name": "Coopico (coopico.com)",
+              "details": "Service for free ads with social instruments, like live chat, profile page and comments",
+              "environment": "Django, CherryPy, REST API, AngularJS, Sentry"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
